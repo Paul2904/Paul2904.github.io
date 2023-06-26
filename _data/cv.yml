@@ -1,6 +1,6 @@
-- title: General Information
-  type: map
-  contents:
+- #title: General Information
+  #type: map
+ # contents:
     - name: Full Name
       value: Albert Einstein
     - name: Date of Birth
@@ -8,7 +8,7 @@
     - name: Languages
       value: English, German
 
-- title: Education
+- #title: Education
   type: time_table
   contents:
     - title: PhD
@@ -93,5 +93,5 @@
 
 - title: Other Interests
   type: list
-  contents:
+  #contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
